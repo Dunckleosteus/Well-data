@@ -9,6 +9,8 @@ pkgs.mkShell
 		python312Packages.jupyterlab
 		python312Packages.matplotlib
 		python312Packages.scikit-learn
+		python312Packages.scikit-image
+		python312Packages.plotly
 	];
 }
 
